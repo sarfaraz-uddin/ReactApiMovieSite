@@ -19,8 +19,8 @@ const navListData = [
   },
   {
     _id: 4,
-    link: "#blog",
-    name: "blog",
+    link: "#blogs",
+    name: "blogs",
     active: false,
   },
 ];
